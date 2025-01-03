@@ -45,9 +45,10 @@ This is a Tower Defense game built with Python and Pygame. Players strategically
 ---
 ## Gameplay Video
 
-[![Gameplay Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/15EyQisFeiQ_1pEBvCHNBVcYikNk6h0PP/view?usp=sharing)
+[![Gameplay Video](https://images-rsg.storage.googleapis.com/wp-content/uploads/2023/11/Medieval-Castle-2D-Art-Tower-Defense-Game-Background-Art-1.jpg)](https://drive.google.com/file/d/15EyQisFeiQ_1pEBvCHNBVcYikNk6h0PP/view?usp=sharing)
 
-Click the link above to watch the gameplay demonstration on Google Drive.
+Click the thumbnail above to watch the gameplay demonstration.
+
 ---
 
 
