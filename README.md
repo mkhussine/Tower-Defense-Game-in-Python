@@ -43,6 +43,13 @@ This is a Tower Defense game built with Python and Pygame. Players strategically
 5. Defend your base as waves of enemies become progressively stronger.
 
 ---
+## Gameplay Video
+
+[![Gameplay Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://drive.google.com/file/d/15EyQisFeiQ_1pEBvCHNBVcYikNk6h0PP/view?usp=sharing)
+
+Click the link above to watch the gameplay demonstration on Google Drive.
+---
+
 
 ## Installation
 
